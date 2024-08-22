@@ -22,10 +22,6 @@ python train_pruning.py --eval xxx/ckpt.pth # eval
 python train_pruning.py --finetune xxx/ckpt.pth # pruned finetuning
 ```
 
-## TODO: Results
-
-Our model achieves the following performance on :
-
 ## Contributing
 
 Our code is based on [RMNet](https://github.com/fxmeng/RMNet), [RepVGG](https://github.com/DingXiaoH/RepVGG) and [nni/amc pruning](https://github.com/microsoft/nni/tree/master/examples/model_compress/pruning/amc)
